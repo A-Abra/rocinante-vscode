@@ -1,6 +1,6 @@
 # Rocinante Color Theme
 
-Theme based on the pinup art of the show ["The Expanse"](https://www.imdb.com/title/tt3230854/)
+Theme based on the pinup art background image "rocinante.png" in the "Rocinante Backgrounds" folder of the show ["The Expanse"](https://www.imdb.com/title/tt3230854/)
 
 ## Screenshots
 
