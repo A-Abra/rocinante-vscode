@@ -2,7 +2,7 @@
 
 Theme based on the pinup art background image "rocinante.png" in the "Rocinante Backgrounds" folder of the show ["The Expanse"](https://www.imdb.com/title/tt3230854/)
 
-For the backgrounds the creator of the !["rocinante.png"](https://github.com/A-Abra/rocinante-vscode/blob/main/Rocinante%20Backgrounds/rocinante.png) is unknown while the "rocinante-original.png" is a photoshop from the "rocinante.png".
+For the backgrounds the creator of the ["rocinante.png"](https://github.com/A-Abra/rocinante-vscode/blob/main/Rocinante%20Backgrounds/rocinante.png) is unknown while the ["rocinante-original.png"](https://github.com/A-Abra/rocinante-vscode/blob/main/Rocinante%20Backgrounds/rocinante-original.png) is a photoshop from the "rocinante.png".
 
 ## Screenshots
 
