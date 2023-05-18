@@ -5,11 +5,11 @@ Theme based on the pinup art of the show ["The Expanse"](https://www.imdb.com/ti
 ## Screenshots
 
 ### HTML
-![HTML syntax highlight](Images/rocinante-theme-css.PNG)
+![HTML syntax highlight](Images/rocinante-theme-html.PNG)
 ### CSS
-![CSS syntax highlight](Images/electron-theme-css.png)
+![CSS syntax highlight](Images/rocinante-theme-css.PNG)
 ### TYPESCRIPT
-![JavaScript syntax highlight](Images/rocinante-theme-ts.png)
+![Typescript syntax highlight](Images/rocinante-theme-ts.PNG)
 
 <!--
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
