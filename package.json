@@ -1,0 +1,34 @@
+{
+  "name": "Rocinante",
+  "displayName": "Rocinante",
+  "description": "Theme based on the Rocinante pinup art from the sci-fi show \"The Expanse\"",
+  "version": "0.0.1",
+  "publisher": "A-Abra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/A-Abra/rocinante-vscode"
+  },
+  "keywords": [
+    "theme",
+    "rocinante",
+    "rocinante pinup",
+    "Rocinante",
+    "Expanse",
+    "The Expanse"
+  ],
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rocinante",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rocinante-color-theme.json"
+      }
+    ]
+  }
+}
